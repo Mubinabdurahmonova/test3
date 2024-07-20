@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2A5D5A;
+}
+
+.title{
+    font-weight:700 ;
+    font-size: 64px;
+    line-height: 77px;
+    background-color: #311313;
+    display: inline;
+    padding-top: 24px;
+    padding-left: 28px;
+    padding-bottom: 23px;
+    padding-right: 17px;
+    color: white;
+
+}
+
+.title-wrapper{
+    text-align: center;
+    padding: 22px;
+}
